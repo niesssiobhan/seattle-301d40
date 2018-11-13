@@ -5,6 +5,7 @@ div {
   margin: 20px;
   float: left;
   background: black;
+<<<<<<< HEAD
 }
 
 @media screen and (min-width: 800px) {
@@ -14,5 +15,15 @@ div {
     background: gray;
   }
 
+=======
+>>>>>>> 8fabf9fb4f34b63437cf8ca30d1019037be8de1e
 }
 
+@media screen and (min-width: 800px) {
+
+  div {
+    border: 5px dashed blue;
+    background: gray;
+  }
+
+}
