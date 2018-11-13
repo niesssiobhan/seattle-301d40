@@ -1,0 +1,41 @@
+nav ul {
+  float: right;
+}
+
+nav li {
+  float: left;
+  padding-right: 2px;
+}
+
+aside img {
+  float: left;
+}
+
+aside p {
+  padding-left: 100px;
+  width: 65%;
+  margin: 0;
+  text-indent: 0;
+}
+
+#logo img {
+  float: left;
+}
+
+.print img {
+  margin-right: 3px;
+}
+
+.recipe li {
+  float: left;
+  width: 40%;
+  font-size: 1.3em;
+  line-height: 31px;
+}
+
+#logo h1 {
+  padding-left: 50px;
+  font-family: 'Yellowtail', cursive;
+  font-size: 2.4em;
+}
+
