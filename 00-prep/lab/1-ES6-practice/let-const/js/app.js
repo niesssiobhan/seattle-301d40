@@ -6,7 +6,7 @@ var leftImage = document.getElementById('left');
 var centerImage = document.getElementById('center');
 var rightImage = document.getElementById('right');
 
-var allProducts = [];
+const allProducts = [];
 var container = document.getElementById('image_container');
 var viewed = [];
 var labels = [];
