@@ -9,11 +9,9 @@ Following lecture, we will deploy our portfolio app, workshop style. Each studen
 ## Daily Plan
 
 - Warm-up exercise
-- Review code challenges
-- Introduction of today's code challenge topic
-- Depoyment Overview and Demo
+- Environments
+- Node, NPM, Express
 - Deployment Workshop
-- Lab Preview
 
 ## Learning Objectives
 
