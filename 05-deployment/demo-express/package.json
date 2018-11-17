@@ -1,0 +1,20 @@
+{
+  "name": "demo-express",
+  "version": "1.0.0",
+  "description": "Code 301 demo on Express; 16 Nov 2018",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pictures",
+    "dogs",
+    "fish"
+  ],
+  "author": "Sam Hamm",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
