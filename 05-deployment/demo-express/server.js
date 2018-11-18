@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 'use strict';
 
 //Load Express
@@ -22,6 +23,9 @@ app.get('/bats', (req, res) => {
 //Tell the app to listen so that it can do its thing
 app.listen(PORT, () => console.log(`our app is listening on PORT ${PORT}`));
 =======
+=======
+
+>>>>>>> c15afc0153af8b2744e5ac56bd3d3590ee01354e
 'use strict';
 
 // Load Express
@@ -44,4 +48,8 @@ app.get('/bats', (req, res) => {
 
 // Tell the app to listen so that it can do its thing
 app.listen(PORT, () => console.log(`Our app is listening on port ${PORT}`));
+<<<<<<< HEAD
 >>>>>>> 5f443e500a52c83776718b657e5f5570048b22b8
+=======
+
+>>>>>>> c15afc0153af8b2744e5ac56bd3d3590ee01354e

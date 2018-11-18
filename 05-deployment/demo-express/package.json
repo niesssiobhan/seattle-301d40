@@ -2,25 +2,41 @@
   "name": "demo-express",
   "version": "1.0.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "description": "A code demo for a quick simple Express server",
 =======
   "description": "Code 301 demo on Express; 16 Nov 2018",
 >>>>>>> 5f443e500a52c83776718b657e5f5570048b22b8
+=======
+
+  "description": "Code 301 demo on Express; 16 Nov 2018",
+
+>>>>>>> c15afc0153af8b2744e5ac56bd3d3590ee01354e
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "author": "",
 =======
+=======
+
+  "author": "",
+
+>>>>>>> c15afc0153af8b2744e5ac56bd3d3590ee01354e
   "keywords": [
     "pictures",
     "dogs",
     "fish"
   ],
+<<<<<<< HEAD
   "author": "Sam Hamm",
 >>>>>>> 5f443e500a52c83776718b657e5f5570048b22b8
+=======
+
+>>>>>>> c15afc0153af8b2744e5ac56bd3d3590ee01354e
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
