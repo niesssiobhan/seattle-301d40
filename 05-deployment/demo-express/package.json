@@ -1,13 +1,23 @@
 {
   "name": "demo-express",
   "version": "1.0.0",
-  "description": "A code demo for a quick simple Express server",
+
+  "description": "Code 301 demo on Express; 16 Nov 2018",
+
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+
   "author": "",
+
+  "keywords": [
+    "pictures",
+    "dogs",
+    "fish"
+  ],
+
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
