@@ -23,10 +23,10 @@ function fetchCityData(event) {
     .then(location => {
       displayMap(location);
       getResource('weather', location);
-      getResource('movies', location);
-      getResource('yelp', location);
-      getResource('meetups', location);
-      getResource('trails', location);
+      // getResource('movies', location);
+      // getResource('yelp', location);
+      // getResource('meetups', location);
+      // getResource('trails', location);
     })
     .catch(error => {
       compileTemplate([error], 'error-container', 'error-template');
