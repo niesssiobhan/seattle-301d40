@@ -1,4 +1,5 @@
-```CREATE TABLE actors(
+```sql
+CREATE TABLE actors(
 id SERIAL PRIMARY KEY,
 name VARCHAR(30),
 gender VARCHAR(1)  
@@ -77,4 +78,5 @@ WHERE actors.name='Tom Hanks'
 ORDER BY movies.year DESC;
 
 DROP TABLE movies;
-DROP TABLE actors;```
+DROP TABLE actors;
+```
