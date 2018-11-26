@@ -1,3 +1,4 @@
+```sql
 CREATE TABLE actors(
 id SERIAL PRIMARY KEY,
 name VARCHAR(30),
@@ -78,3 +79,4 @@ ORDER BY movies.year DESC;
 
 DROP TABLE movies;
 DROP TABLE actors;
+```
