@@ -7,14 +7,18 @@ Today is the first day of our new project, a mobile-only book collection. You wi
 ## Daily Plan
 
 - Warm-up exercise
-- Review code challenges
-- Introduction of today's code challenge topic
+- Lab 10 discussion
+- Plan for the week
 - Full-stack application skeleton scaffolding
+
 - HTML5 Forms
 - Server-side templating
-- Google Books API
-- Code Demo
+
 - Lab Preview
+- See working final app
+- Wireframes
+- Lab overview including Trello
+- Google Books API demo
 
 ## Learning Objectives
 
