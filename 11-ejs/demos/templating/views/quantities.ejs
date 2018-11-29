@@ -6,6 +6,10 @@
     <p><a href="/">Home</a></p>
     <ul>
       <!-- Let's put some EJS in here for our data! -->
+      <% groceryObjects.forEach(item => { %>
+        <p>Item: <%= item.name %> </p>
+        <p>I need <%= item.quantity %> of these!</p>
+      <% }) %>
     </ul>
   </body>
 </html>

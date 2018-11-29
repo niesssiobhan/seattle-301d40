@@ -6,6 +6,9 @@
     <p><a href="/">Home</a></p>
     <ul>
       <!-- Let's put some EJS in here for our data -->
+      <% arrayOfItems.forEach(item => { %>
+        <li><%= item %> </li>
+      <% }) %>
     </ul>
   </body>
 </html>
