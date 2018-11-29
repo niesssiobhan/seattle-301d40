@@ -13,7 +13,7 @@ app.post('/contact', (request, response) => {
   response.sendFile('./thanks.html', { root: './public' });
 })
 
-app.get('*', (request, response) => response.status(404).send('This route does not exist'));
+app.get('*', (request, response) => response.status(404).send('Quit poking around my server you a-hole'));
 
 app.listen(PORT, () => console.log(`Listening on ${PORT}`));
 
