@@ -17,18 +17,18 @@ Today we will be discussing how to create a new resource from an HTML5 form. Thi
 
 ## Samples of Prior 301 Projects
 
-[Seattle Field Finder](https://field-finder.herokuapp.com/)
-[The 4th Bling](https://bling-4th-the-money.herokuapp.com/)
-[Trivia Ninja](https://trivia-ninja.herokuapp.com/)
-[Meteorite Mapper](https://meteorite-mapper.herokuapp.com/)
-[Price I$ Right Parking](http://priceisrightparking.herokuapp.com/)
-[Fremont Patroller](https://fremont-bike-patroller.herokuapp.com/)
-[DroneStrike](https://whendronesattack.herokuapp.com/)
-[Animal Excursion](http://www.animal-excursion.fun/)
-[Gotta Eat!](https://gotta-eat-app.herokuapp.com/home)
-[Nutri-Track](http://www.nutri-track.fit/)
-[Travel Buddy](http://www.travel-buddy.website/)
-[Nutri-Track](http://www.nutri-track.fit/)
+- [Seattle Field Finder](https://field-finder.herokuapp.com/)
+- [The 4th Bling](https://bling-4th-the-money.herokuapp.com/)
+- [Trivia Ninja](https://trivia-ninja.herokuapp.com/)
+- [Meteorite Mapper](https://meteorite-mapper.herokuapp.com/)
+- [Price I$ Right Parking](http://priceisrightparking.herokuapp.com/)
+- [Fremont Patroller](https://fremont-bike-patroller.herokuapp.com/)
+- [DroneStrike](https://whendronesattack.herokuapp.com/)
+- [Animal Excursion](http://www.animal-excursion.fun/)
+- [Gotta Eat!](https://gotta-eat-app.herokuapp.com/home)
+- [Nutri-Track](http://www.nutri-track.fit/)
+- [Travel Buddy](http://www.travel-buddy.website/)
+- [Nutri-Track](http://www.nutri-track.fit/)
 
 
 ## Learning Objectives
